@@ -13,4 +13,12 @@ h1 {
   font: 14pt Verdana, Geneva, Helvetica, sans-serif;
   font-weight: bold;
   line-height: 20pt;
+  text-align: center;
+}
+
+h2 {
+  font: 14pt Verdana, Geneva, Helvetica, sans-serif;
+  font-weight: bold;
+  line-height: 20pt;
+  text-align: center;
 }
