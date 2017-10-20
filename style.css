@@ -7,3 +7,9 @@ body {
   padding-right: 20pt;
   padding-top: 5pt;
 }
+
+h1 {
+  font: 14pt Verdana, Geneva, Helvetica, sans-serif;
+  font-weight: bold;
+  line-height: 20pt;
+}
