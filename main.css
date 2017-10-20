@@ -66,7 +66,6 @@ section .row img {
   color: #fbd1d5;
   text-shadow: none;
   background-color: #ffffff;
-  top: 0px;
 }
 
 .btn.btn-primary:hover {
@@ -78,12 +77,6 @@ section .row img {
   background-color: #E8DFE0;
   color: #ffffff;
   margin: 0 0 30px;
-}
-
-.btn.btn-primary:active {
-  color: #ffffff;
-  background-color: #fbd1d5;
-  top: 3px;
 }
 
 footer {
