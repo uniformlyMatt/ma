@@ -24,3 +24,8 @@ h2 {
   text-align: center;
   color: #2e69a3;
 }
+
+nav {
+  display: inline;
+  color: #2e69a3;
+}
