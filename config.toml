@@ -1,0 +1,19 @@
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/uniformlyMatt"
+
+[[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/uniformlyMatt"
+
+[[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/USERNAME"
+    
+[[params.social]]
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = "https://scholar.google.co.in/citations?user=user=GP6H5JsAAAAJ"
