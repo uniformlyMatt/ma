@@ -1,15 +1,12 @@
------------------------------------------------------------------------------------------------------------------------
-------> INFO
------------------------------------------------------------------------------------------------------------------------
+
+## INFO
 
 Template Name: Ethan
 Design/Development: templatefoundation.com
 License: Free for personal and commercial use under the Creative Commons Attribution 4.0 license
 
 
------------------------------------------------------------------------------------------------------------------------
-------> CREDITS
------------------------------------------------------------------------------------------------------------------------
+## CREDITS
 
 - jQuery ( https://jquery.com/ )
 - Bootstrap ( http://getbootstrap.com/ )
@@ -21,8 +18,6 @@ License: Free for personal and commercial use under the Creative Commons Attribu
 - Demo Images ( https://unsplash.com/ https://www.pexels.com/ )
 
 
------------------------------------------------------------------------------------------------------------------------
-------> NOTICE
------------------------------------------------------------------------------------------------------------------------
+## NOTICE
 
 - Contact form only works in a server environment.
