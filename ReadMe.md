@@ -1,4 +1,4 @@
-![uniformlymatt.github.io](https://uniformlymatt.github.io/ma)
+[uniformlymatt.github.io](https://uniformlymatt.github.io/ma)
 
 ## INFO
 
