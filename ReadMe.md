@@ -1,13 +1,10 @@
----
-permalink: !(https://github.com/uniformlymatt.github.io/ma)[uniformlymatt.github.io]
----
+![uniformlymatt.github.io](https://github.com/uniformlymatt.github.io/ma)
 
 ## INFO
 
 Template Name: Ethan
 Design/Development: templatefoundation.com
 License: Free for personal and commercial use under the Creative Commons Attribution 4.0 license
-
 
 ## CREDITS
 
