@@ -1,5 +1,5 @@
 ---
-permalink: /index.html
+permalink: !(https://github.com/uniformlymatt.github.io/ma)[uniformlymatt.github.io]
 ---
 
 ## INFO
